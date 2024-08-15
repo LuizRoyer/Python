@@ -14,4 +14,4 @@ if __name__ =='__main__':
 	except RecursionError:
 		print('numero invalido')
 	else:
-		print(f'o Fatorial de {number} = {result}') # ou print(result)
+		print(f'o Fatorial de {number} = {result}') 
