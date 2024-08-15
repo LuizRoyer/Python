@@ -29,3 +29,9 @@ print(pares)
 
 distributiva = [n1* n2 for n1 in [4,5,6] for n2 in [1,2,3]]
 print(distributiva)
+
+# ternarios
+a = 60 
+b = 50
+print(f'se A menor que B retorna {b} se nao retorna {a} resultado =  {(a , b ) [ a < b ] }')
+
